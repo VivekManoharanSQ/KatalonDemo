@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Click to attach</name>
+   <tag></tag>
+   <elementGuidId>c59b0f90-786b-44fe-95b9-d3dbceecf2d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.css-e8tju.ant-btn-default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ba5aa58c-663a-4ca8-a574-28d4b046a13c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9efceeaf-435a-4ba1-b4a8-cbcc1571539a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn css-e8tju ant-btn-default</value>
+      <webElementGuid>ed371108-f249-458e-ada7-c95913de792f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click to attach</value>
+      <webElementGuid>0945858a-f7e4-4ebe-8baa-e96f158ecb45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;basic&quot;)/div[@class=&quot;ant-col css-e8tju&quot;]/div[@class=&quot;ant-form-item css-e8tju&quot;]/div[@class=&quot;ant-row ant-form-item-row css-e8tju&quot;]/div[@class=&quot;ant-col ant-form-item-control css-e8tju&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/span[@class=&quot;ant-upload-wrapper css-e8tju&quot;]/div[@class=&quot;ant-upload ant-upload-select&quot;]/span[@class=&quot;ant-upload&quot;]/button[@class=&quot;ant-btn css-e8tju ant-btn-default&quot;]</value>
+      <webElementGuid>db16ce50-f4db-47a5-bd99-d9f7b508edef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>b4994b86-aa81-49aa-a850-71c7e891f740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='basic']/div[2]/div[6]/div/div[2]/div/div/span/div/span/button</value>
+      <webElementGuid>a2fe5c50-d74f-4509-8f37-ff546a4358b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Timesheet(pdf only)'])[1]/following::button[1]</value>
+      <webElementGuid>ba21e675-9e84-4188-a23f-00af71c75908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maternal/Paternal Leave Hours'])[1]/following::button[1]</value>
+      <webElementGuid>eb6850f7-764f-415e-ad5c-4a9a114c4cbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::button[1]</value>
+      <webElementGuid>5aeec140-5f3b-4995-9c53-a0ed6373de84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>e0273542-bea9-4ec3-a6cb-e35250df2f66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Click to attach' or . = 'Click to attach')]</value>
+      <webElementGuid>aabdde20-6d44-430a-8df5-eee715099221</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

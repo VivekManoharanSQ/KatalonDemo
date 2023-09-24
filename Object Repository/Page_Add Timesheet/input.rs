@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input</name>
+   <tag></tag>
+   <elementGuidId>f22ee143-14b0-4d32-8a8b-7199623c3091</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder = 'To Date']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-picker-input.ant-picker-input-active > input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b9558907-abd3-4655-857f-2fc487d7ade8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>To Date</value>
+      <webElementGuid>8f581cf0-c397-4e9a-982e-29b74ed88a3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>c393b21f-0d2d-4e1e-b4bd-5a208e3c1419</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>7f6119db-b4ff-4d79-9e6e-f8b5d441f509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;basic&quot;)/div[@class=&quot;ant-col css-e8tju&quot;]/div[@class=&quot;ant-row css-e8tju&quot;]/div[@class=&quot;ant-col ant-col-sm-24 ant-col-md-12 ant-col-lg-12 css-e8tju&quot;]/div[@class=&quot;ant-form-item css-e8tju ant-form-item-has-success&quot;]/div[@class=&quot;ant-row ant-form-item-row css-e8tju&quot;]/div[@class=&quot;ant-col ant-form-item-control css-e8tju&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;ant-picker ant-picker-range ant-picker-status-success css-e8tju&quot;]/div[@class=&quot;ant-picker-input ant-picker-input-active&quot;]/input[1]</value>
+      <webElementGuid>59594e8a-5b22-4ac6-aca9-a47cdf84f769</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[4]</value>
+      <webElementGuid>000f95b0-2038-4a63-9515-86d4ae1b1cfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='basic']/div[2]/div[2]/div[2]/div/div/div[2]/div/div/div/div[3]/input</value>
+      <webElementGuid>8bc9ac98-15c6-464d-98be-dc451afe6683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>ff3a3263-2ebe-4b83-a7ae-cf1e1e28957d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'To Date']</value>
+      <webElementGuid>35d6bdfc-1bd4-4ee5-b9d4-03f6e9e4ef41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

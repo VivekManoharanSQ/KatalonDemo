@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SQR2023073100 - praveen ram</name>
+   <tag></tag>
+   <elementGuidId>4fc02f5c-02e5-41d9-b38b-10d05d3f02aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='3159']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-pro-select-item-option-content</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@title = 'SQR2023073100 - praveen ram' and (text() = 'SQR2023073100 - praveen ram' or . = 'SQR2023073100 - praveen ram')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f66f7606-a4be-468a-b9fc-6c930046049f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SQR2023073100 - praveen ram</value>
+      <webElementGuid>e31e8622-94ba-48dd-b501-d10d6c48b247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-pro-select-item-option-content</value>
+      <webElementGuid>bd479021-415b-4680-a217-ceefb7bdac95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SQR2023073100 - praveen ram</value>
+      <webElementGuid>91fd0efe-4372-4cf3-b843-f1e0c50cf4d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;3159&quot;)/div[@class=&quot;ant-select-item-option-content&quot;]/div[@class=&quot;ant-pro-select-item-option-content&quot;]</value>
+      <webElementGuid>f1659389-0589-4ead-967b-022df1e23111</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='3159']/div/div</value>
+      <webElementGuid>ca8c2d06-f322-4c0c-ba4c-013ff53d7901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select Employee'])[1]/following::div[21]</value>
+      <webElementGuid>49e1d930-90ae-4c76-b8ed-0c060cccf6e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee'])[2]/following::div[26]</value>
+      <webElementGuid>073860e2-7b7a-4c72-b329-e24f5f7c3698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SQR2023073']/parent::*</value>
+      <webElementGuid>afb29cb3-ff6b-4255-9b5f-e6ec6ba47fc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>e464f18e-1527-48b6-b002-f129f17f6f67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'SQR2023073100 - praveen ram' and (text() = 'SQR2023073100 - praveen ram' or . = 'SQR2023073100 - praveen ram')]</value>
+      <webElementGuid>29c07d8a-c3be-4c72-9ae0-1717a1db5355</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
