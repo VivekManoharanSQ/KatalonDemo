@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>4b7eb00b-b546-407e-ba47-3206e47467ad</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/AddTimesheetFlow</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

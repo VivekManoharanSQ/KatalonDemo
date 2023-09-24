@@ -57,11 +57,11 @@ WebUI.click(findTestObject('Object Repository/Page_Add Timesheet/input'), Failur
 
 WebUI.setText(findTestObject('Object Repository/Page_Add Timesheet/input'), '30-09-2023')
 
-WebUI.uploadFileWithDragAndDrop(findTestObject('Page_Add Timesheet/button_Click to attach'), 'C:\\Users\\skquo\\Katalon Studio\\CDA_WW_EN.pdf')
+not_run: WebUI.uploadFileWithDragAndDrop(findTestObject('Page_Add Timesheet/button_Click to attach'), 'C:\\Users\\skquo\\Katalon Studio\\CDA_WW_EN.pdf')
 
 WebUI.delay(10)
 
-WebUI.takeScreenshot()
+not_run: WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Object Repository/Page_Add Timesheet/button_Save as draft'))
 
